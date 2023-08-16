@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saad-khyari&label=Profile%20views&color=0e75b6&style=flat" alt="saad-khyari" /> </p>
 
-- 🔭 I’m currently working on **In Media Man**
+- 🔭 I’m currently working  **In Media Man**
 
 - 🌱 I’m currently learning **Information Technology**
 
