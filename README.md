@@ -2,8 +2,8 @@
 <h3 align="center">Just An IT Guy trying to build a Great Future for The World.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saad-khyari&label=Profile%20views&color=0e75b6&style=flat" alt="saad-khyari" /> </p>
+ <! -- - 🔭 I’m currently Studying  **In IT** -->
 
-- 🔭 I’m currently working  **In Media Man**
 
 - 🌱 I’m currently learning **Information Technology**
 
